@@ -47,6 +47,7 @@ a {
 
 a:hover {
   color: #ffc732;
+  color: black;
   text-decoration: none;
 }
 
@@ -659,7 +660,8 @@ section {
 }
 
 .get-started #submit-form button[type=submit]:hover {
-  background: rgba(254, 185, 0, 0.8);
+  background: rgba(11, 11, 11, 0.8);
+
 }
 
 @keyframes animate-loading {
